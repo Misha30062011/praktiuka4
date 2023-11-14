@@ -16,9 +16,6 @@ li {
 display: flex;
 flex-direction: row;
 }
-.asaid {
-
-}
 h1, h2, h3 { 
     margin: 0px;
 }
@@ -77,9 +74,11 @@ a {
 }
 h2 {
     font-size: 30px;
+    padding: 15px;
 }
 h3 {
     font-size: 30px;
+    padding: 15px;
 }
 .content {
     background-color: green;
