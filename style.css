@@ -107,6 +107,14 @@ h3 {
     width: 300px;
     font-size: larger;
 }
+.card1 {
+    border: 3px solid red;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: flex;
+}
 
 
 
