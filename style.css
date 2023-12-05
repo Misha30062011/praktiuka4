@@ -11,6 +11,9 @@ header{
     margin-right: 20px;
     margin-top: 20px;
 }
+body {
+    margin: 0;
+}
 li {
     list-style: none;
 }
@@ -73,7 +76,14 @@ div {
 }
 .verse {
 background-color: yellow;
-border-top: 5px solid red;
+}
+.footer {
+    border-top: 5px solid red;
+    background-color: yellow;
+    text-align: center;
+    padding: 3px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 a {
     font-size: 30px;
@@ -101,7 +111,6 @@ h2, h3 {
     font-size: larger;
 }
 .card1 {
-    border: 3px solid red;
     text-align: center;
     margin-right: 20px;
     display: flex;
