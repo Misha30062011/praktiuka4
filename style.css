@@ -73,6 +73,7 @@ div {
 }
 .verse {
 background-color: yellow;
+border-top: 5px solid red;
 }
 a {
     font-size: 30px;
